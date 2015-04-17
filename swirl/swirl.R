@@ -1,4 +1,4 @@
-setwd(Coursera)
+#setwd(Coursera)
 getwd()
 
 library("swirl")

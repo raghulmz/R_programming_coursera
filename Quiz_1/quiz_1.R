@@ -1,6 +1,6 @@
 #Quiz 1
 
-setwd("~/Data_Science/Coursera/Data_Science_Specialization-John_Hopkins_University/R_Programming/R_Programming_R/Quiz_1/")
+#setwd("~/Data_Science/Coursera/Data_Science_Specialization-John_Hopkins_University/R_Programming/R_Programming_R/Quiz_1/")
 
 Tab=read.table("hw1_data.csv",sep=",",header=T)
 head(Tab)
