@@ -1,5 +1,6 @@
 # Caching the Inverse of a Matrix
 
+##makeCacheMatrix
  **makeCacheMatrix** takes a matrix as input and returns a list of 4 functions.<br>
 
  * `set` clears the cached value of `inv` and the sets the data to variable `x`.
