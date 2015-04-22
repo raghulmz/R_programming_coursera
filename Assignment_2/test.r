@@ -1,0 +1,6 @@
+ x = matrix(c(1:9),nrow = 3, ncol = 3)
+ x <- matrix(runif(9,1,100),3,3)
+ m = makeCacheMatrix(x)
+ m$get()
+ cacheSolve(m)
+ cacheSolve(m)
